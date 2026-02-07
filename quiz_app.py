@@ -9,7 +9,7 @@ TOTAL_QUESTIONS = 10
 EXAM_DURATION_MIN = 12
 IMAGE_FOLDER = "images"
 # Update this list with your correct keys
-CORRECT_ANSWERS = ['C', 'B', 'D', 'A', 'A', 'B', 'B', 'C', 'A', 'B'] 
+CORRECT_ANSWERS = ['B', 'B', 'A', 'C', 'A', 'B', 'B', 'B', 'C', 'C'] 
 DB_FILE = "results.csv"
 ADMIN_PASSWORD = "admin" # Change this for security
 
@@ -182,4 +182,5 @@ def run_admin():
         st.error("Invalid Password")
 
 if __name__ == "__main__":
+
     main()
