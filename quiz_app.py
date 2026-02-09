@@ -9,7 +9,7 @@ TOTAL_QUESTIONS = 10
 EXAM_DURATION_MIN = 12
 IMAGE_FOLDER = "images"
 # Update this list with your correct keys
-CORRECT_ANSWERS = ['B', 'B', 'A', 'C', 'A', 'B', 'B', 'B', 'C', 'C'] 
+CORRECT_ANSWERS = ['B', 'C', 'D', 'B', 'C', 'D', 'B', 'C', 'B', 'C'] 
 DB_FILE = "results.csv"
 ADMIN_PASSWORD = "admin" # Change this for security
 
